@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Zaki</h1>
-<h3 align="center">A student studying Mathematical Computation at UCL</h3>
+<h3 align="center">A student studying Mathematical Computation at UCL with an interest in Data Science</h3>
 
 - 📫 How to reach me **zaki.tewari@gmail.com**
 
