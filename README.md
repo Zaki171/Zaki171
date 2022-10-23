@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Zaki</h1>
-<h3 align="center">A student studying Mathematical Computation at UCL with an interest in Data Science within Finance</h3>
+<h3 align="center">A student studying Mathematical Computation at UCL with a passion for Data Science and Quantitative Finance.</h3>
 
 - 📫 How to reach me **zaki.tewari@gmail.com**
 
